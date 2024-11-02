@@ -1,18 +1,8 @@
 [
   {
-    "id": 10100116,
-    "sym": "Tah",
-    "libr": "المكتبة البلدية الطاهير وسط",
-    "web": "https://m.facebook.com/100094392908872/",
-    "mail": "maktabataher@gmail.com",
-    "map": "https://maps.app.goo.gl/F4Dv8J8W4DLHRc6NA",
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-16.jpg",
-    "title": "أصول البحث العلمي ومناهجه",
-    "name": "أحمد بدر",
-    "trans": "- - - - -",
-    "pub": "وكالة المطبوعات الكويت",
-    "date": "1973",
-    "code": "Ar 001-16",
-    "category": "000"
+    "id": "2MInternational.ma",
+    "name": "2M International",
+    "logo": "https://i.imgur.com/MvpntzA.png",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
   }
 ]
