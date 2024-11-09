@@ -1,0 +1,62 @@
+{
+  "id": 435814,
+  "tag_name": "2.7.7",
+  "target_commitish": "cf567cae911be94e6f3e5555056d731fcc8376e9",
+  "prerelease": false,
+  "name": "2.7.7",
+  "body": "1.桌面端移除竖屏状态，始终横屏显示，支持横屏下打开设置\r\n2.全面支持移动端和其他端的数据同步，使用移动端的扫码功能可以快速完成订阅源的双向同步\r\n温馨提示：\r\n移动端和其他端的数据同步，需要在同一个WIFI网络环境下。先在其他端打开订阅源设置页面，然后使用移动端扫码，确认设备连接成功后，便可以同步所有数据。",
+  "author": {
+    "id": 1731332,
+    "login": "AMuMuSir",
+    "name": "AMuMuSir",
+    "avatar_url": "https://gitee.com/assets/no_portrait.png",
+    "url": "https://gitee.com/api/v5/users/AMuMuSir",
+    "html_url": "https://gitee.com/AMuMuSir",
+    "remark": "",
+    "followers_url": "https://gitee.com/api/v5/users/AMuMuSir/followers",
+    "following_url": "https://gitee.com/api/v5/users/AMuMuSir/following_url{/other_user}",
+    "gists_url": "https://gitee.com/api/v5/users/AMuMuSir/gists{/gist_id}",
+    "starred_url": "https://gitee.com/api/v5/users/AMuMuSir/starred{/owner}{/repo}",
+    "subscriptions_url": "https://gitee.com/api/v5/users/AMuMuSir/subscriptions",
+    "organizations_url": "https://gitee.com/api/v5/users/AMuMuSir/orgs",
+    "repos_url": "https://gitee.com/api/v5/users/AMuMuSir/repos",
+    "events_url": "https://gitee.com/api/v5/users/AMuMuSir/events{/privacy}",
+    "received_events_url": "https://gitee.com/api/v5/users/AMuMuSir/received_events",
+    "type": "User"
+  },
+  "created_at": "2024-09-19T15:26:53+08:00",
+  "assets": [
+    {
+      "browser_download_url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.7.7/easyTV-2.7.7-linux.zip",
+      "name": "easyTV-2.7.7-linux.zip"
+    },
+    {
+      "browser_download_url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.7.7/easyTV-2.7.7.apk",
+      "name": "easyTV-2.7.7.apk"
+    },
+    {
+      "browser_download_url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.7.7/easyTV-2.7.7-windows.zip",
+      "name": "easyTV-2.7.7-windows.zip"
+    },
+    {
+      "browser_download_url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.7.7/easyTV-2.7.7-tv.apk",
+      "name": "easyTV-2.7.7-tv.apk"
+    },
+    {
+      "browser_download_url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.7.7/easyTV-2.7.7.ipa",
+      "name": "easyTV-2.7.7.ipa"
+    },
+    {
+      "browser_download_url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.7.7/easyTV-2.7.7-macos.zip",
+      "name": "easyTV-2.7.7-macos.zip"
+    },
+    {
+      "browser_download_url": "https://gitee.com/AMuMuSir/easy_tv_live/archive/refs/tags/2.7.7.zip",
+      "name": "2.7.7.zip"
+    },
+    {
+      "browser_download_url": "https://gitee.com/AMuMuSir/easy_tv_live/archive/refs/tags/2.7.7.tar.gz",
+      "name": "2.7.7.tar.gz"
+    }
+  ]
+}
