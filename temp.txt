@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/cabdellah/BD/refs/heads/main/cover/TahAr_001-01.jpg" group-title="央视频道",CCTV-1 综合
-http://115.201.186.182:9999/udp/233.50.200.99:5140
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/cabdellah/BD/refs/heads/main/cover/TahAr_001-01.jpg" group-title="央视频道",CCTV-1 综合
-http://180.114.95.16:5601/rtp/239.49.8.129:6000
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/cabdellah/BD/refs/heads/main/cover/TahAr_001-02.jpg" group-title="央视频道",CCTV-2 财经
 http://123.144.180.141:8003/udp/225.0.4.132:7980
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/cabdellah/BD/refs/heads/main/cover/TahAr_001-02.jpg" group-title="央视频道",CCTV-2 财经
