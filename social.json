@@ -1,0 +1,47 @@
+[ 
+  {
+    "name":"تحديــــث التطبيـــق",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/u.svg",
+    "url":"https://play.google.com/store/apps"
+  },
+  {
+    "name":"تقييــــم التطبيــــق",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/r.svg",
+    "url":"https://play.google.com/store/apps"
+  },
+  {
+    "name":"يوتـــــــوب",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/y.svg",
+    "url":"https://www.youtube.com"
+  },
+  {
+    "name":"تيــك تـــــوك",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/t.svg",
+    "url":"https://www.tiktok.com"
+  },
+  {
+    "name":"فيسبـــــــوك",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/f.svg",
+    "url":"https://www.facebook.com"
+  },
+  {
+    "name":"تويتـــــر X",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/x.svg",
+    "url":"https://twitter.com"
+  },
+  {
+    "name":"انستقــــــرام",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/i.svg",
+    "url":"https://www.instagram.com"
+  },
+  {
+    "name":"بنتـــــرســـت",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/p.svg",
+    "url":"https://www.pinterest.com"
+  },
+  {
+    "name":"سياســــة الخصوصيـــة",
+    "icon":"https://raw.githubusercontent.com/cabdellah/T_V/main/social/v.svg",
+    "url":"https://www.youtube.com"
+  }
+]
